@@ -1,4 +1,6 @@
 1# Ce qyue l'on va faire
-# Ajouter des fichier
-# Modifier des fichiers*
-# Regarder l'historique
+
+* Ajouter et modifier des fichier
+* ajouter d'autres personnes au projet ?
+* Voir l'historique
+* Ne pas avoir peur des merge
