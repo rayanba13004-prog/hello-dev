@@ -1,0 +1,4 @@
+1# Ce qyue l'on va faire
+# Ajouter des fichier
+# Modifier des fichiers*
+# Regarder l'historique
